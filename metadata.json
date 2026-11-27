@@ -1,0 +1,6 @@
+{
+  "name": "PolyLab",
+  "description": "Interactive polymer science, 3D molecular modeling, molecular weight distribution, polymerization kinetics, and Fox-Flory ML prediction platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
